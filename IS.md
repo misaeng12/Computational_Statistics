@@ -1,8 +1,6 @@
 ---
 title: "Network Failure Probaility"
-output:
-  html_document:
-    df_print: paged
+output: rmarkdown::github_document
 ---
 
 ```{r}
