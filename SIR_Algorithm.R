@@ -1,3 +1,5 @@
+##### Sampling Importance Resampling (SIR) #####
+
 ###1. Slash Distribution
 
 dslash <- function(y){
