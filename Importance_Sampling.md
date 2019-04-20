@@ -32,7 +32,7 @@ MyPlot <- function(X){
 MyPlot( X = rep(1, 20) )
 ```
 
-![](Network_Failureunnamed-chunk-2-1.png)<!-- -->
+![alt text](Images/unnamed-chunk-1-1.png)<!-- -->
 
 ### Network Failure Function
 
