@@ -1,4 +1,4 @@
-### 1. Gausian Mixture Model (1-dim, 2-class)
+### 1. GMM; Gausian Mixture Model (1-dim, 2-class)
 
 #1) stopping rule에 likelihood 이용
 
