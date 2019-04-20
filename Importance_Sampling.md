@@ -1,12 +1,3 @@
----
-title: "Network Failure Probaility"
-output: 
-  html_document:
-    keep_md: true
----
-
-
-
 ```r
 MyPlot <- function(X){
   
@@ -50,17 +41,19 @@ Myh <- function(X){
 }
 ```
 
+
 #### Examples
 
 ```r
-X1 <- c(1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0); MyPlot(X1); Myh(X1)
+X1 <- c(1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1); MyPlot(X1); Myh(X1)
 ```
 
-![](Images/unnamed-chunk-3-1.png)
+![](Images/unnamed-chunk-3-3.png)
 
 ```
 ## [1] 0
 ```
+
 
 ```r
 X2 <- c(1,0,1,0,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0); MyPlot(X2); Myh(X2)
@@ -72,25 +65,7 @@ X2 <- c(1,0,1,0,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0); MyPlot(X2); Myh(X2)
 ## [1] 1
 ```
 
-```r
-X3 <- c(1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1); MyPlot(X3); Myh(X3)
-```
 
-![](Images/unnamed-chunk-3-3.png)
-
-```
-## [1] 0
-```
-
-```r
-X4 <- c(0,0,1,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1); MyPlot(X4); Myh(X4)
-```
-
-![](Images/unnamed-chunk-3-4.png)
-
-```
-## [1] 0
-```
 
 ### 1. Naive MC estimate of mu
 
