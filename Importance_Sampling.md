@@ -56,7 +56,7 @@ Myh <- function(X){
 X1 <- c(1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0); MyPlot(X1); Myh(X1)
 ```
 
-![](Network_Failureunnamed-chunk-4-1.png)<!-- -->
+![](Images/unnamed-chunk-3-1.png)
 
 ```
 ## [1] 0
@@ -66,7 +66,7 @@ X1 <- c(1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0); MyPlot(X1); Myh(X1)
 X2 <- c(1,0,1,0,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0); MyPlot(X2); Myh(X2)
 ```
 
-![](Network_Failureunnamed-chunk-4-2.png)<!-- -->
+![](Images/unnamed-chunk-3-2.png)
 
 ```
 ## [1] 1
@@ -76,7 +76,7 @@ X2 <- c(1,0,1,0,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0); MyPlot(X2); Myh(X2)
 X3 <- c(1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1); MyPlot(X3); Myh(X3)
 ```
 
-![](Network_Failureunnamed-chunk-4-3.png)<!-- -->
+![](Images/unnamed-chunk-3-3.png)
 
 ```
 ## [1] 0
@@ -86,7 +86,7 @@ X3 <- c(1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0,0,1); MyPlot(X3); Myh(X3)
 X4 <- c(0,0,1,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1); MyPlot(X4); Myh(X4)
 ```
 
-![](Network_Failureunnamed-chunk-4-4.png)<!-- -->
+![](Images/unnamed-chunk-3-4.png)
 
 ```
 ## [1] 0
