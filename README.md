@@ -8,5 +8,3 @@ Implementation of Algorithms in Statistics such as
 - MCMC(Markov Chain Monte Carlo)
   + Metropolis-Hastings Algorithm
   + Gibbs Sampling
-
-![alt text](Images/unnamed-chunk-1-1.png)<!-- -->
